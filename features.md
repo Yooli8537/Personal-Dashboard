@@ -13,7 +13,7 @@ The dashboard is made of many different nodes which can be toggled using the set
 - Notes: A little notes section using **TipTap** & JSON.
 - Quote of the day: An inspirational quote pulled from the `quotes.json` file, chosen randomly by generating a random seed from the date.
 - News: Relevant News pulled from the **Newsdata.io API**. Interesting Articles can be saved to view any time.
-- App Status: Check the status of an app by adding it's URL, which will run fetch calls on it.
+- App Status: Check the status of an app by adding its URL, which will run fetch calls on it.
 - GD Level Tracker: View all the levels you're currently progressing on. Requires the [Geometry Dash Bucket List](https://github.com/Yooli8537/geometry-dash-bucket-list).
 - Writing Tracker: Track how long you've been working on a book.
 - Habit Tracker: Track your habits and continue your streak.
