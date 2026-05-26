@@ -6,16 +6,18 @@
   grid-auto-flow: row dense;
 }
 
-.widget-medium {
+.widget-small {
   grid-column: span 1;
 }
 
 .widget-medium {
   grid-column: span 2;
 }
+
 .widget-large {
   grid-column: span 3;
 }
+
 .widget-tall {
   grid-row: span 2;
 }
