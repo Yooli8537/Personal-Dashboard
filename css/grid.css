@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: minmax(200px, auto);
+  gap: 1rem;
+  grid-auto-flow: row dense;
+}
+
+.widget-medium {
+  grid-column: span 1;
+}
+
+.widget-medium {
+  grid-column: span 2;
+}
+.widget-large {
+  grid-column: span 3;
+}
+.widget-tall {
+  grid-row: span 2;
+}
