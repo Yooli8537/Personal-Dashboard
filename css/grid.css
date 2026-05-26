@@ -1,23 +1,49 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-auto-rows: minmax(200px, auto);
+  grid-auto-rows: minmax(100px, auto);
   gap: 1rem;
   grid-auto-flow: row dense;
 }
 
-.widget-small {
+.widget {
+  border: 2px solid white;
+  padding: 1rem;
+}
+
+.small {
   grid-column: span 1;
 }
 
-.widget-medium {
+.medium {
   grid-column: span 2;
 }
 
-.widget-large {
+.large {
   grid-column: span 3;
 }
 
-.widget-tall {
+.full-width {
+  grid-column: 1 / -1;
+}
+
+.shorter {
+  grid-row: span 1;
+}
+
+.short {
   grid-row: span 2;
+}
+
+.tall {
+  grid-row: span 3;
+}
+
+
+.taller {
+  grid-row: span 4;
+}
+
+#title {
+  grid-row: span;
 }
