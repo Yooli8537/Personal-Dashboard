@@ -14,7 +14,7 @@ The dashboard is made of many different nodes which can be toggled using the set
 - Quote of the day: An inspirational quote pulled from the `quotes.json` file, chosen randomly by generating a random seed from the date.
 - News: Relevant News pulled from the **Newsdata.io API**. Interesting Articles can be saved to view any time.
 - App Status: Check the status of an app by adding its URL, which will run fetch calls on it.
-- GD Level Tracker: View all the levels you're currently progressing on. Requires the [Geometry Dash Bucket List](https://github.com/Yooli8537/geometry-dash-bucket-list).
+- GD Level Tracker: View all the levels you're currently progressing on. If none is being progressed, it shows a recommended level based on the hardest you've completed & enjoyment ratings. Requires the [Geometry Dash Bucket List](https://github.com/Yooli8537/geometry-dash-bucket-list).
 - Writing Tracker: Track how long you've been working on a book.
 - Habit Tracker: Track your habits and continue your streak.
 - Spotify Widget: What's jamming? Links to main Playlist if nothing is playing.
