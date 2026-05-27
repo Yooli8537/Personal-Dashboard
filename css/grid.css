@@ -43,6 +43,11 @@
   grid-row: span 4;
 }
 
-#title {
-  grid-row: span;
+#widget-title {
+  min-width: unset;
+  width: auto;
+  align-self: start;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
