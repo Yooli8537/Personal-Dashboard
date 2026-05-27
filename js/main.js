@@ -1,3 +1,7 @@
+import { Editor } from "@tiptap/core";
+import { ListKit } from "@tiptap/extension-list";
+import { default as StarterKit } from "@tiptap/starter-kit";
+
 // Selecting Widgets
 const title = document.querySelector("#widget-title");
 
@@ -28,3 +32,25 @@ function applyTitleTime() {
 // Title
 applyTitleTime();
 setInterval(applyTitleTime, 1000);
+
+// Notes Widget
+function createEditor() {
+  const notesWidget = document.querySelector("#widget-notes");
+  const editorField = document.createElement("div");
+
+  // Creating new TipTap Editor
+  const editor = new Editor({
+    element: editorField,
+    extensions: [StarterKit, ListKit],
+    content: "<p></p>",
+    autofocus: true,
+    injectCSS: true,
+    onUpdate: () => {
+      const updated = 0;
+    },
+  });
+
+  notesWidget.appendChild(editorField);
+}
+
+createEditor();
