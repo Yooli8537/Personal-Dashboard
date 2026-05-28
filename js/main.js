@@ -34,10 +34,10 @@ applyTitleTime();
 setInterval(applyTitleTime, 1000);
 
 // Notes Widget
-// Autosave
-const notesSaved = false;
+// Autosave Variable
+let notesSaved = true;
 
-function createEditor() {
+async function createEditor() {
   const notesWidget = document.querySelector("#widget-notes");
   const editorField = document.createElement("div");
   editorField.style.height = "100%";
@@ -57,7 +57,24 @@ function createEditor() {
   });
 
   notesWidget.appendChild(editorField);
+
+  // Autosaving
+  setInterval(async () => {
+    if (!notesSaved) {
+      const saveData = editor.getJSON();
+
+      const save = await fetch("/api/notes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ saveData }),
+      });
+
+      if (save.ok) {
+        console.log("Notes Autosave Successful");
+        notesSaved = true;
+      }
+    }
+  }, 5000);
 }
 
 createEditor();
-setInterval(() => {}, 5000)
