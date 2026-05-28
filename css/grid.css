@@ -51,3 +51,34 @@
   justify-content: space-around;
   align-items: center;
 }
+
+#widget-notes {
+  height: calc(275px + 2rem);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#widget-notes .ProseMirror {
+  flex: 1;
+  overflow-y: auto;
+  height: 100%;
+}
+
+#widget-notes .ProseMirror::-webkit-scrollbar {
+  width: 6px;
+}
+
+#widget-notes .ProseMirror::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#widget-notes .ProseMirror::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 3px;
+}
+
+#widget-notes .ProseMirror::-webkit-scrollbar-thumb:hover {
+  background: #888;
+  cursor: default;
+}

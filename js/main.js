@@ -37,6 +37,9 @@ setInterval(applyTitleTime, 1000);
 function createEditor() {
   const notesWidget = document.querySelector("#widget-notes");
   const editorField = document.createElement("div");
+  editorField.style.height = "100%";
+  editorField.style.overflow = "hidden";
+  editorField.style.flexDirection = "column";
 
   // Creating new TipTap Editor
   const editor = new Editor({
