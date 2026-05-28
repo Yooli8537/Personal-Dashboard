@@ -13,13 +13,3 @@ h5,
 h6 {
   margin: 0 0 3px 0;
 }
-
-.ProseMirror {
-  margin: 0 auto;
-  border: none;
-  outline: none;
-  flex: 1;
-  overflow-y: auto;
-  overflow-x: auto;
-  min-height: 0;
-}
