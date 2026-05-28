@@ -34,6 +34,9 @@ applyTitleTime();
 setInterval(applyTitleTime, 1000);
 
 // Notes Widget
+// Autosave
+const notesSaved = false;
+
 function createEditor() {
   const notesWidget = document.querySelector("#widget-notes");
   const editorField = document.createElement("div");
@@ -49,7 +52,7 @@ function createEditor() {
     autofocus: true,
     injectCSS: true,
     onUpdate: () => {
-      const updated = 0;
+      notesSaved = false;
     },
   });
 
@@ -57,3 +60,4 @@ function createEditor() {
 }
 
 createEditor();
+setInterval(() => {}, 5000)
