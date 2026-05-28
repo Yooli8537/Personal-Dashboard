@@ -8,6 +8,7 @@
   overflow-y: auto;
   overflow-x: auto;
   min-height: 0;
+  color: #fff;
 }
 
 .ProseMirror p {
