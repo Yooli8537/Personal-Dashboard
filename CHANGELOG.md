@@ -6,6 +6,8 @@
 
 - Notes Widget
   - Supports Markdown
+  - Autosaves every 5s
+  - Loads data on startup
 
 ## 27.05.2026 - v0.1.0-alpha
 
