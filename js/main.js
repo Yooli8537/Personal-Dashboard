@@ -25,8 +25,6 @@ function applyTitleTime() {
   // Applying Values
   dateView.textContent = `${weekday}, ${date}`;
   timeView.textContent = time;
-
-  console.log("Updated Time");
 }
 
 // Title
@@ -44,11 +42,25 @@ async function createEditor() {
   editorField.style.overflow = "hidden";
   editorField.style.flexDirection = "column";
 
+  // Getting save data
+  let saveData;
+
+  const getSaveData = await fetch("/api/notes", {
+    method: "GET",
+  });
+
+  if (getSaveData.ok) {
+    saveData = await getSaveData.json();
+    console.log("Notes: Got Data successfully.");
+  } else {
+    console.error("Notes: Failed to get Data.");
+  }
+
   // Creating new TipTap Editor
   const editor = new Editor({
     element: editorField,
     extensions: [StarterKit, ListKit],
-    content: "<p></p>",
+    content: saveData ?? "<p></p>",
     autofocus: true,
     injectCSS: true,
     onUpdate: () => {
@@ -70,7 +82,7 @@ async function createEditor() {
       });
 
       if (save.ok) {
-        console.log("Notes Autosave Successful");
+        console.log("Notes: Autosave Successful");
         notesSaved = true;
       }
     }
