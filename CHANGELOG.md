@@ -5,7 +5,6 @@
 ### Added
 
 - Notes Widget
-  - Saves Automatically
   - Supports Markdown
 
 ## 27.05.2026 - v0.1.0-alpha
