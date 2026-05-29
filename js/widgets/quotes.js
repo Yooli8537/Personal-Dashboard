@@ -6,7 +6,12 @@ export async function setQuote() {
   const response = await fetch("/api/quotes");
   if (response.ok) {
     const quotes = await response.json();
-    const i = Math.floor(Math.random() * quotes.length);
+
+    const now = new Date();
+    const seed =
+      now.getFullYear() * 10000 + (now.getMonth() + 1) * 100 + now.getDate();
+
+    const i = seed % quotes.length;
     const quoteOfTheDay = quotes[i];
 
     const textField = document.createElement("h2");

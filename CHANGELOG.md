@@ -6,6 +6,7 @@
 
 - Quotes Widget
   - Added Route to get Quotes
+  - Fancy Styling
 
 ## 29.05.2026 - v0.2.2-alpha
 
