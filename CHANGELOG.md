@@ -5,7 +5,7 @@
 ### Fixed
 
 - 502 Error on Server Startup
-- Simplified README instructions
+- Corrected README instructions
 
 ## 28.05.2026 - v0.2.0-alpha
 
