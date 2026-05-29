@@ -3,7 +3,7 @@ import fs from "fs";
 
 const router = Router();
 
-app.get("/api/notes", async (req, res) => {
+router.get("/api/notes", async (req, res) => {
   try {
     const data = await fs.promises.readFile("data/notes.json", "utf-8");
     console.log("Notes: Successfully got save data.");
@@ -14,7 +14,7 @@ app.get("/api/notes", async (req, res) => {
   }
 });
 
-app.post("/api/notes", async (req, res) => {
+router.post("/api/notes", async (req, res) => {
   const { saveData } = req.body;
 
   try {
