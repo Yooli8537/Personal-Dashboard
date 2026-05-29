@@ -4,11 +4,16 @@
 
 ### Added
 
-- New Widgets & Info in the featured.md file.
+- New info in the `README`.
 
 ### Changed
 
-- Improved features.md structure.
+- Improved features structure.
+- Merged `features.md` with `README.md`
+
+### Deprecated
+
+- `features.md`
 
 ## 29.05.2026 - v0.3.0-alpha
 
