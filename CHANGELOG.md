@@ -1,5 +1,12 @@
 # Changelog
 
+## 29.05.2026 - v0.2.1-alpha
+
+### Fixed
+
+- 502 Error on Server Startup
+- Simplified README instructions
+
 ## 28.05.2026 - v0.2.0-alpha
 
 ### Added
