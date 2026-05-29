@@ -1,12 +1,13 @@
 # Changelog
 
-## Unreleased
+## 29.05.2026 - v0.3.0-alpha
 
 ### Added
 
 - Quotes Widget
   - Added Route to get Quotes
   - Fancy Styling
+  - Seed based on Date, Quote only changes when date changes
 
 ## 29.05.2026 - v0.2.2-alpha
 
