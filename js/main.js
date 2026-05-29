@@ -1,8 +1,10 @@
 // Widgets
 import { createEditor } from "./widgets/notes";
+import { setQuote } from "./widgets/quotes";
 
 // Initializing Widgets
 createEditor();
+setQuote();
 
 // Title
 const title = document.querySelector("#widget-title");
