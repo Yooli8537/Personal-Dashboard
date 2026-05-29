@@ -2,6 +2,8 @@
 
 ## 29.05.2026 - v0.2.2-alpha
 
+### Fixed
+
 - Server Route Bugfix
 
 ## 29.05.2026 - v0.2.1-alpha
