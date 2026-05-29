@@ -2,7 +2,7 @@
 
 A customizable Dashboard for all your needs across the day.
 
-Developed using HTML, CSS & JS. Functioning Frontend and Backend for the Express server.
+Developed using HTML, CSS & JS. Functioning Frontend and Backend using Express & Vite.
 
 ## Setup
 
