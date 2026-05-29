@@ -9,13 +9,13 @@ export async function setQuote() {
     const i = Math.floor(Math.random() * quotes.length);
     const quoteOfTheDay = quotes[i];
 
-    const textField = document.createElement("h3");
+    const textField = document.createElement("h2");
     textField.classList.add("quote");
-    textField.textContent = quoteOfTheDay.text;
+    textField.textContent = `"${quoteOfTheDay.text}"`;
 
-    const authorField = document.createElement("h2");
+    const authorField = document.createElement("h3");
     authorField.classList.add("quote");
-    authorField.textContent = quoteOfTheDay.author;
+    authorField.textContent = `~ ${quoteOfTheDay.author}`;
 
     widget.appendChild(textField);
     widget.appendChild(authorField);
