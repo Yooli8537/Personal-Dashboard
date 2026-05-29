@@ -7,6 +7,17 @@ export async function setQuote() {
   if (response.ok) {
     const quotes = await response.json();
     const i = Math.floor(Math.random() * quotes.length);
-    console.log(quotes[i]);
+    const quoteOfTheDay = quotes[i];
+
+    const textField = document.createElement("h3");
+    textField.classList.add("quote");
+    textField.textContent = quoteOfTheDay.text;
+
+    const authorField = document.createElement("h2");
+    authorField.classList.add("quote");
+    authorField.textContent = quoteOfTheDay.author;
+
+    widget.appendChild(textField);
+    widget.appendChild(authorField);
   }
 }

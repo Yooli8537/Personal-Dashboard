@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Added
+
+- Quotes Widget
+  - Added Route to get Quotes
+
 ## 29.05.2026 - v0.2.2-alpha
 
 ### Fixed
