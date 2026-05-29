@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- New Widgets & Info in the featured.md file.
+
+### Changed
+
+- Improved features.md structure.
+
 ## 29.05.2026 - v0.3.0-alpha
 
 ### Added
