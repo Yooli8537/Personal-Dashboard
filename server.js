@@ -15,5 +15,5 @@ app.use(notesRouter);
 app.use(quotesRouter);
 
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Personal Dashboard running on http://localhost:${PORT}`);
 });
