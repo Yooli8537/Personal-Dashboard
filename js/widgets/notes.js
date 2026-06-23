@@ -57,5 +57,5 @@ export async function createEditor() {
         notesSaved = true;
       }
     }
-  }, 5000);
+  }, 2000);
 }
