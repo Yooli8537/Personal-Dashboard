@@ -1,11 +1,15 @@
 import { Router } from "express";
-import fs from "fs";
+import fs, { existsSync } from "fs";
 
 const router = Router();
 
 router.get("/api/notes", async (req, res) => {
+  if (!existsSync("user-data/notes.json")) {
+    fs.writeFileSync("user-data/notes.json", "[]");
+    console.warn('Created "notes.json" file.');
+  }
   try {
-    const data = await fs.promises.readFile("data/notes.json", "utf-8");
+    const data = await fs.promises.readFile("user-data/notes.json", "utf-8");
     console.log("Notes: Successfully got save data.");
     res.json(JSON.parse(data));
   } catch (err) {
@@ -20,7 +24,7 @@ router.post("/api/notes", async (req, res) => {
   try {
     if (saveData) {
       await fs.promises.writeFile(
-        "data/notes.json",
+        "user-data/notes.json",
         JSON.stringify(saveData, null, 2),
         "utf8",
       );

@@ -6,8 +6,9 @@ import fs from "fs";
 const app = express();
 const PORT = 8536;
 
-if (!fs.existsSync("data/notes.json")) {
-  fs.writeFileSync("data/notes.json", "[]");
+if (!fs.existsSync("user-data")) {
+  fs.mkdirSync("user-data");
+  console.warn('Created "user-data" folder.');
 }
 
 app.use(json());

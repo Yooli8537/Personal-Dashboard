@@ -5,7 +5,7 @@ const router = Router();
 
 router.get("/api/quotes", async (req, res) => {
   try {
-    const data = await fs.promises.readFile("./data/quotes.json", "utf-8");
+    const data = await fs.promises.readFile("./server-data/quotes.json", "utf-8");
     console.log("Quotes: Successfully fetched Data.");
     res.send(data);
   } catch (err) {
