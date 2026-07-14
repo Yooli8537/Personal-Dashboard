@@ -1,0 +1,1145 @@
+[
+  {
+    "title": "Sketch a Stranger's Object",
+    "description": "Pick any object within sight and sketch it in as much detail as you can in 10 minutes. Don't worry about it looking good.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "indoor",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "10-Minute Declutter Sprint",
+    "description": "Set a timer for 10 minutes and clear as much clutter from one surface (desk, table, shelf) as you can.",
+    "time": 10,
+    "tags": [
+      "tidying",
+      "indoor",
+      "organization"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Text an Old Friend",
+    "description": "Message someone you haven't talked to in a while, just to say hi and ask how they're doing.",
+    "time": 5,
+    "tags": [
+      "social",
+      "kindness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn 5 Words in a New Language",
+    "description": "Pick a language you don't speak and learn 5 new words, including how to pronounce them.",
+    "time": 15,
+    "tags": [
+      "learning",
+      "mental",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Take a Walk Without Your Phone",
+    "description": "Go for a 15-minute walk outside and leave your phone at home. Just observe your surroundings.",
+    "time": 15,
+    "tags": [
+      "outdoor",
+      "physical",
+      "mindfulness",
+      "digital-detox"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Letter to Future You",
+    "description": "Write a short letter to yourself one year from now. Describe your hopes and what you're working on. If you've completed this quest before, read the previous letter.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "mental",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do 20 Pushups (or Modify)",
+    "description": "Drop and do 20 pushups, or a modified version that works for you. Take breaks if needed.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Cook Something You've Never Made",
+    "description": "Pick a recipe you've never tried and make it, using whatever ingredients you have on hand.",
+    "time": 45,
+    "tags": [
+      "creative",
+      "indoor",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Organize One Digital Folder",
+    "description": "Pick a messy folder on your computer or phone and organize it into clear subfolders.",
+    "time": 15,
+    "tags": [
+      "organization",
+      "indoor",
+      "digital-detox"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Give a Genuine Compliment",
+    "description": "Find someone nearby (in person, chat, or call) and give them a specific, genuine compliment.",
+    "time": 5,
+    "tags": [
+      "social",
+      "kindness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "5-Minute Meditation",
+    "description": "Sit somewhere quiet, close your eyes, and focus only on your breathing for 5 minutes.",
+    "time": 5,
+    "tags": [
+      "mindfulness",
+      "indoor",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn a Magic Trick",
+    "description": "Search for a simple card or coin trick and practice it until you can do it smoothly.",
+    "time": 20,
+    "tags": [
+      "learning",
+      "skill-building",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Reorganize Your Bookshelf",
+    "description": "Sort your books by color, genre, or author, whatever system appeals to you right now.",
+    "time": 20,
+    "tags": [
+      "organization",
+      "tidying",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Haiku About Your Day",
+    "description": "Compose a 5-7-5 syllable haiku that captures how your day has gone so far.",
+    "time": 5,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Stretch for 10 Minutes",
+    "description": "Do a full-body stretching routine, holding each stretch for at least 20 seconds.",
+    "time": 10,
+    "tags": [
+      "physical",
+      "relaxation",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Research a Random Topic",
+    "description": "Pick a completely random Wikipedia article and spend 10 minutes reading and following links.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental",
+      "digital-detox"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Deep Clean Your Keyboard",
+    "description": "Unplug your keyboard and clean it thoroughly with a cloth and compressed air if you have it.",
+    "time": 10,
+    "tags": [
+      "tidying",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Plan a Fictional Trip",
+    "description": "Pick a place you've never been and plan a fictional 3-day itinerary, just for fun.",
+    "time": 20,
+    "tags": [
+      "creative",
+      "mental",
+      "adventure"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Random Act of Kindness",
+    "description": "Do something small and kind for someone without expecting anything in return.",
+    "time": 10,
+    "tags": [
+      "kindness",
+      "social"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn to Tie a New Knot",
+    "description": "Look up a knot you don't know (bowline, clove hitch, etc.) and practice tying it 5 times.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Watch the Sunset or Sunrise",
+    "description": "Find a good spot and watch the sunset or sunrise, without distractions.",
+    "time": 20,
+    "tags": [
+      "outdoor",
+      "mindfulness",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Rearrange a Room",
+    "description": "Rearrange the furniture in one room to see if you like a different layout.",
+    "time": 30,
+    "tags": [
+      "organization",
+      "indoor",
+      "creative"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write Down 10 Things You're Grateful For",
+    "description": "List ten things, big or small, that you're genuinely grateful for right now.",
+    "time": 10,
+    "tags": [
+      "mindfulness",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn a New Keyboard Shortcut Set",
+    "description": "Look up 5 keyboard shortcuts for an app you use often and practice using them.",
+    "time": 10,
+    "tags": [
+      "skill-building",
+      "learning",
+      "digital-detox"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Draw a Comic Strip",
+    "description": "Create a 4-panel comic strip about anything, even if you can't draw well.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Call a Family Member",
+    "description": "Call a family member you haven't spoken to in a while, just to catch up.",
+    "time": 15,
+    "tags": [
+      "social",
+      "kindness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try a New Stretch Routine (Yoga)",
+    "description": "Follow along with a beginner yoga sequence for 15 minutes.",
+    "time": 15,
+    "tags": [
+      "physical",
+      "relaxation",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Short Story Opening",
+    "description": "Write the opening paragraph of a story you'll never finish, just for the fun of it.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Clean Out Your Email Inbox",
+    "description": "Unsubscribe from 5 newsletters you never read and archive or delete old emails.",
+    "time": 15,
+    "tags": [
+      "organization",
+      "digital-detox",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn About a Constellation",
+    "description": "Look up a constellation visible tonight and learn its name and mythology.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental",
+      "outdoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Practice Handwriting",
+    "description": "Spend 10 minutes practicing neater handwriting or trying a new lettering style.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "skill-building",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Take 10 Photos of Small Details",
+    "description": "Walk around and take 10 photos of small, easily overlooked details near you.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "outdoor",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Balance Challenge",
+    "description": "See how long you can stand on one leg with your eyes closed, then try the other side.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Thank-You Note",
+    "description": "Write a short thank-you note to someone who has helped you, even if you don't send it.",
+    "time": 10,
+    "tags": [
+      "kindness",
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn 3 Facts About Your City",
+    "description": "Search for 3 interesting historical facts about the city or town you live in.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Fold Laundry Mindfully",
+    "description": "Fold a basket of laundry while focusing fully on the texture and process, no distractions.",
+    "time": 15,
+    "tags": [
+      "mindfulness",
+      "organization",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try to Juggle",
+    "description": "Grab 2-3 small soft objects and attempt to learn basic juggling for a few minutes.",
+    "time": 15,
+    "tags": [
+      "skill-building",
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a List of Life Goals",
+    "description": "Jot down 5-10 things you want to accomplish someday, big or small.",
+    "time": 15,
+    "tags": [
+      "mental",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Water and Check on Your Plants",
+    "description": "Check on any plants you have, water them, and remove any dead leaves.",
+    "time": 10,
+    "tags": [
+      "tidying",
+      "indoor",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn a Tongue Twister",
+    "description": "Find a tongue twister you don't know and practice saying it fast 10 times.",
+    "time": 5,
+    "tags": [
+      "learning",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Plan Tomorrow in Detail",
+    "description": "Write out an hour-by-hour rough plan for tomorrow, including one thing you're looking forward to.",
+    "time": 10,
+    "tags": [
+      "organization",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Drawing With Your Non-Dominant Hand",
+    "description": "Draw a simple object using only your non-dominant hand.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a 10-Minute Dance Break",
+    "description": "Put on a song you love and dance around, letting go of any self-consciousness.",
+    "time": 10,
+    "tags": [
+      "physical",
+      "indoor",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Research a Career You're Curious About",
+    "description": "Spend 15 minutes reading about a career path that interests you, even casually.",
+    "time": 15,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Wipe Down All Door Handles",
+    "description": "Do a quick hygiene pass and wipe down doorknobs and light switches in your home.",
+    "time": 10,
+    "tags": [
+      "tidying",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Fake Movie Review",
+    "description": "Invent a fictional movie and write a short, funny review of it.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Look Up How Something Common Works",
+    "description": "Pick an everyday object (like a zipper or a microwave) and learn how it actually works.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Posture Check and Reset",
+    "description": "Check your posture, do a few shoulder rolls, and adjust your workspace ergonomics.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "mindfulness",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Short Poem",
+    "description": "Write a short poem, rhyming or not, about whatever mood you're in right now.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Message a Friend a Fun Memory",
+    "description": "Text a friend a specific fun memory you share and tell them why it stuck with you.",
+    "time": 5,
+    "tags": [
+      "social",
+      "kindness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try a 5-Minute Cold Water Splash",
+    "description": "Splash cold water on your face for an energy boost and a moment of mindfulness.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Sort Through One Drawer",
+    "description": "Pick the messiest drawer in your home and fully sort and declutter it.",
+    "time": 15,
+    "tags": [
+      "tidying",
+      "organization",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn the Basics of a New Skill Online",
+    "description": "Watch a 10-minute tutorial on a skill you've always wanted to learn, no pressure to master it.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write Down a Childhood Memory",
+    "description": "Write down a vivid memory from your childhood in as much detail as you can recall.",
+    "time": 15,
+    "tags": [
+      "mental",
+      "creative",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do 50 Jumping Jacks",
+    "description": "Get your heart rate up with 50 jumping jacks, broken into sets if needed.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Explore a New Street Nearby",
+    "description": "Walk down a street or path near you that you've never explored before.",
+    "time": 20,
+    "tags": [
+      "outdoor",
+      "adventure",
+      "physical"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Make a Playlist for a Specific Mood",
+    "description": "Create a playlist themed around a very specific mood or moment, like 'rainy Sunday morning'.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "digital-detox",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn a Fun Fact to Share",
+    "description": "Find one interesting fact you didn't know and plan to share it with someone today.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "social"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Box Breathing",
+    "description": "Practice box breathing: inhale 4 seconds, hold 4, exhale 4, hold 4, repeat for 5 minutes.",
+    "time": 5,
+    "tags": [
+      "mindfulness",
+      "relaxation"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Clean Your Phone Screen and Case",
+    "description": "Give your phone a proper clean, screen, case, and all the little crevices.",
+    "time": 5,
+    "tags": [
+      "tidying",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a List of Songs That Define You",
+    "description": "Make a list of 5-10 songs that feel like the soundtrack of your life right now.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Kindness Check-In",
+    "description": "Message someone who might be having a hard time and simply ask how they're really doing.",
+    "time": 10,
+    "tags": [
+      "kindness",
+      "social"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Origami",
+    "description": "Look up a simple origami design and attempt to fold it with any paper you have.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "skill-building",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Vocabulary Challenge",
+    "description": "Learn 3 new advanced words and try to use one of them in conversation today.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Reorganize Your Phone's Home Screen",
+    "description": "Sort your apps into folders and remove ones you no longer use.",
+    "time": 10,
+    "tags": [
+      "organization",
+      "digital-detox"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Hold a Plank for as Long as You Can",
+    "description": "Time yourself holding a plank position, and try to beat your time next attempt.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write an Alternate Ending",
+    "description": "Pick a movie or book you know well and write an alternate ending for it.",
+    "time": 15,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Look Up a Recipe From Another Culture",
+    "description": "Research a traditional dish from a culture you're unfamiliar with and read about its history.",
+    "time": 15,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Practice a Musical Instrument",
+    "description": "Spend 15 minutes practicing an instrument you own, even if you're a beginner.",
+    "time": 15,
+    "tags": [
+      "skill-building",
+      "creative",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Digital Detox Hour",
+    "description": "Put your phone away for a full hour and do something entirely offline.",
+    "time": 60,
+    "tags": [
+      "digital-detox",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a List of Questions You're Curious About",
+    "description": "Write down 10 questions you're genuinely curious about, and pick one to research later.",
+    "time": 10,
+    "tags": [
+      "mental",
+      "learning"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Give Your Space Some Fresh Air",
+    "description": "Open the windows and let fresh air circulate through your space for 10 minutes.",
+    "time": 10,
+    "tags": [
+      "tidying",
+      "relaxation",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try a New Way to Tie Your Shoes",
+    "description": "Look up an unusual shoelace-tying technique and try it out.",
+    "time": 5,
+    "tags": [
+      "skill-building",
+      "learning"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Draw a Map of an Imaginary Place",
+    "description": "Sketch a rough map of a fictional town, island, or world from your imagination.",
+    "time": 20,
+    "tags": [
+      "creative",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Practice Active Listening",
+    "description": "In your next conversation, focus entirely on listening without planning your response.",
+    "time": 10,
+    "tags": [
+      "social",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do 3 Sets of Squats",
+    "description": "Do 3 sets of 15 bodyweight squats with short breaks in between.",
+    "time": 10,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write Your Own Obituary Headline",
+    "description": "Write a single sentence describing how you'd want to be remembered, then reflect on it.",
+    "time": 10,
+    "tags": [
+      "mental",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn About an Animal You Know Nothing About",
+    "description": "Pick an obscure animal and spend 10 minutes learning fun facts about it.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Reorganize Your Wallet or Bag",
+    "description": "Empty out your wallet or bag, remove what you don't need, and reorganize it.",
+    "time": 10,
+    "tags": [
+      "organization",
+      "tidying",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try a Breathing-Based Cold Exposure",
+    "description": "Take a short cold shower or splash cold water while breathing deeply and calmly.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a List of 'Someday' Ideas",
+    "description": "List out project or trip ideas you've always wanted to do 'someday'.",
+    "time": 10,
+    "tags": [
+      "mental",
+      "creative"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn to Say Hello in 5 Languages",
+    "description": "Look up and practice saying 'hello' in five different languages.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Room Photo Challenge",
+    "description": "Take a photo of a room, then try to make it look noticeably better within 15 minutes.",
+    "time": 15,
+    "tags": [
+      "tidying",
+      "organization",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write Down Your Ideal Day",
+    "description": "Describe your perfect ordinary day from morning to night in detail.",
+    "time": 15,
+    "tags": [
+      "mental",
+      "mindfulness",
+      "creative"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Skipping Rope",
+    "description": "If you have a jump rope (or improvise), try skipping for a few minutes.",
+    "time": 10,
+    "tags": [
+      "physical",
+      "outdoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Research a Historical Event",
+    "description": "Pick a historical event you know little about and spend 15 minutes learning the basics.",
+    "time": 15,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Send an Encouraging Message",
+    "description": "Think of someone going through something tough and send them an encouraging message.",
+    "time": 5,
+    "tags": [
+      "kindness",
+      "social"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Whittling or Carving Soap",
+    "description": "If you have a bar of soap or safe material, try carving a simple shape into it.",
+    "time": 20,
+    "tags": [
+      "creative",
+      "skill-building",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Sensory Awareness Walk",
+    "description": "Take a walk and consciously name 5 things you see, 4 you hear, 3 you feel, 2 you smell.",
+    "time": 15,
+    "tags": [
+      "outdoor",
+      "mindfulness",
+      "physical"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn a New Card Game",
+    "description": "Look up the rules of a card game you don't know and try to play it, solo or with someone.",
+    "time": 20,
+    "tags": [
+      "learning",
+      "skill-building"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write a Letter You'll Never Send",
+    "description": "Write an honest letter to someone expressing something you've never told them.",
+    "time": 15,
+    "tags": [
+      "mental",
+      "creative",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Balance Board or Stability Challenge",
+    "description": "Try standing on one foot on an uneven surface (like a pillow) for as long as possible.",
+    "time": 5,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Look Up a Word's Etymology",
+    "description": "Pick a common word and research where it originally came from.",
+    "time": 5,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Quick Car or Bike Check",
+    "description": "If you own a car or bike, do a quick check of tires, lights, and cleanliness.",
+    "time": 15,
+    "tags": [
+      "organization",
+      "tidying"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Try Freewriting for 10 Minutes",
+    "description": "Write continuously for 10 minutes without stopping, editing, or worrying about coherence.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Watch Clouds and Name Shapes",
+    "description": "Lie down or sit outside and spend 10 minutes finding shapes in the clouds.",
+    "time": 10,
+    "tags": [
+      "outdoor",
+      "relaxation",
+      "mindfulness"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Learn 3 New Facts About Space",
+    "description": "Look up 3 interesting facts about space or astrophysics you didn't already know.",
+    "time": 10,
+    "tags": [
+      "learning",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Do a Mini Workout Circuit",
+    "description": "Do 3 rounds of pushups, squats, and situps, 10 reps each, back to back.",
+    "time": 15,
+    "tags": [
+      "physical",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Sketch Your Room From Memory",
+    "description": "Without looking, sketch the layout of a room you know well, then compare it to reality.",
+    "time": 10,
+    "tags": [
+      "creative",
+      "mental",
+      "indoor"
+    ],
+    "attempted": 0,
+    "completed": 0
+  },
+  {
+    "title": "Write Down 3 Wins From This Week",
+    "description": "List three things that went well this week, no matter how small.",
+    "time": 5,
+    "tags": [
+      "mindfulness",
+      "mental"
+    ],
+    "attempted": 0,
+    "completed": 0
+  }
+]
